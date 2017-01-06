@@ -902,6 +902,9 @@ new DynamicInputModel({
 })
 ```
 
+## Integration with redux
+
+In progress...
 
 ## A Word to the Community
 
